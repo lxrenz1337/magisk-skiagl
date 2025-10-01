@@ -1,0 +1,6 @@
+id=magisk-skiagl
+name=skiagl renderer switch
+version=1.0
+versionCode=1
+author=lxrenz
+description=Sets HWUI/RenderEngine renderer to skiagl and restarts SystemUI + force-stops user packages
